@@ -59,7 +59,9 @@ Cities face rising temperatures and worsening air quality — especially in unde
 ### Visualization
 - 🗺️ [Google Maps 3D Tiles API](https://developers.google.com/maps/documentation/3d-tiles/overview)
 
+
 ---
+## MIT License 
 
 ## 🧪 Setup Instructions
 
